@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box
+}
+
+.container{
+  background:#000;
+  height:100vh;
+  overflow: hidden;
+  display: flex;
+}
+
+img{
+  width:30%;
+}
+
+.wrapper{
+  background-color: #fff;
+  width:600px;
+  height:400px;
+  margin:auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1{
+  
+}
+
